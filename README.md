@@ -29,7 +29,13 @@ _______________|  gitio : custom URL shortener using Github's git.io API.
 CHANGE LOG  ORIGIN: https://github.com/rsvp/gitio
 2015-03-28  First version 1.0.0 uses googl as template.
 
-
 ```
 
+## Eating our own cooking
+
+- Primary GitHub page: https://git.io/git.io
+
+- Raw source code: https://git.io/git.io.sh
+
+*Really easy to remember, and to pass along.*
 
